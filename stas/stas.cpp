@@ -18,7 +18,7 @@ location room[3];
 
 int main()//
 {
-   
+   fgfgfg
 
     int direction;
     room[0].name = "village";
