@@ -16,7 +16,7 @@ player_ player1;
 
 location room[3];
 
-int main()
+int main()//
 {
    
 
